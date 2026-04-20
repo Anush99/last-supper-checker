@@ -27,9 +27,8 @@ URL = (
     "?idt=2547"
 )
 
-TARGET_DAY = 21
+TARGET_DAYS = [29, 30]
 MONTH_NAME = "APRIL 2026"
-CAL_CELL_SELECTOR = f"li.day.cal4{TARGET_DAY}"
 CALENDAR_SELECTOR = "#calendar_151991"
 NEXT_MONTH_SELECTOR = "#mese_next_151991 a"
 MONTH_LABEL_SELECTOR = "#mese_anno_151991"
@@ -89,11 +88,12 @@ def notify(title: str, message: str) -> None:
             break
 
 
-async def check_availability(headless: bool = True) -> bool | None:
+async def check_availability(headless: bool = True) -> dict[int, bool | None]:
     """
-    Return True if April 30 has availability, False if sold-out / inactive,
-    or None if the date cell wasn't found at all.
+    Check each day in TARGET_DAYS and return a dict mapping day -> result.
+    True = available, False = sold-out/inactive, None = not found.
     """
+    results: dict[int, bool | None] = {}
     async with async_playwright() as pw:
         browser = await pw.chromium.launch(headless=headless)
         context = await browser.new_context(
@@ -111,7 +111,6 @@ async def check_availability(headless: bool = True) -> bool | None:
                 await page.goto(URL, wait_until="domcontentloaded", timeout=30_000)
                 await page.wait_for_timeout(3_000)
 
-                # Case 1: Redirected to queue-it.net waiting room
                 queue_wait = 0
                 while "queue-it.net" in page.url:
                     if queue_wait == 0:
@@ -124,8 +123,6 @@ async def check_availability(headless: bool = True) -> bool | None:
                     if queue_wait % 60 == 0:
                         print(f"  Still in queue ({queue_wait}s)…")
 
-                # Case 2: "Your place in line is no longer valid" error page
-                # URL contains /queue/queueerrorpage.php
                 if "/queue/" in page.url or "queueerror" in page.url:
                     print("  Queue session expired ('Your place in line is no longer valid').")
                     new_place_btn = page.locator('a.btn:has-text("Take a new place in line")')
@@ -135,22 +132,18 @@ async def check_availability(headless: bool = True) -> bool | None:
                         await page.wait_for_timeout(5_000)
                     continue
 
-                # Case 3: Queue-it overlay/link on the actual page
                 queue_link = page.locator('a[href*="queue-it.net"]')
                 if await queue_link.count() > 0:
                     print("  Queue-it overlay detected, retrying…")
                     continue
 
-                # No queue issues — we're on the real page
                 break
             else:
                 print(f"  Could not get past queue after {max_queue_retries} attempts.")
-                return None
+                return {day: None for day in TARGET_DAYS}
 
             await page.wait_for_selector(CALENDAR_SELECTOR, timeout=15_000)
 
-            # Make sure we're looking at the right month.  The page might open
-            # on a different month, so navigate forward/back if needed.
             month_text = await page.text_content(MONTH_LABEL_SELECTOR)
             if month_text and MONTH_NAME not in month_text.upper():
                 print(f"  Calendar shows '{month_text}', navigating to {MONTH_NAME}…")
@@ -162,28 +155,33 @@ async def check_availability(headless: bool = True) -> bool | None:
                     if month_text and MONTH_NAME in month_text.upper():
                         break
 
-            cell = page.locator(CAL_CELL_SELECTOR)
-            if await cell.count() == 0:
-                print(f"  Could not find calendar cell for day {TARGET_DAY}.")
-                return None
+            for day in TARGET_DAYS:
+                cell = page.locator(f"li.day.cal4{day}")
+                if await cell.count() == 0:
+                    print(f"  Day {day} — not found on calendar.")
+                    results[day] = None
+                    continue
 
-            classes = await cell.get_attribute("class") or ""
-            title = await cell.get_attribute("title") or ""
-            inner = await cell.inner_html()
-            has_link = "<a " in inner.lower()
+                classes = await cell.get_attribute("class") or ""
+                title = await cell.get_attribute("title") or ""
+                inner = await cell.inner_html()
+                has_link = "<a " in inner.lower()
 
-            print(f"  Day {TARGET_DAY} — class: '{classes}' | title: '{title}' | has link: {has_link}")
+                print(f"  Day {day} — class: '{classes}' | title: '{title}' | has link: {has_link}")
 
-            if "inactive" in classes:
-                return False
-            if "no-event" in classes:
-                return False
-            if has_link:
-                return True
-            return False
+                if "inactive" in classes:
+                    results[day] = False
+                elif "no-event" in classes:
+                    results[day] = False
+                elif has_link:
+                    results[day] = True
+                else:
+                    results[day] = False
 
         finally:
             await browser.close()
+
+    return results
 
 
 async def main() -> None:
@@ -204,25 +202,30 @@ async def main() -> None:
     )
     args = parser.parse_args()
 
+    days_label = ", ".join(str(d) for d in TARGET_DAYS)
+
     while True:
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        print(f"\n[{now}] Checking availability for April {TARGET_DAY}…")
+        print(f"\n[{now}] Checking availability for April {days_label}…")
 
         try:
-            result = await check_availability(headless=not args.headed)
+            results = await check_availability(headless=not args.headed)
         except Exception as exc:
             print(f"  ERROR: {exc}")
-            result = None
+            results = {day: None for day in TARGET_DAYS}
 
-        if result is True:
-            msg = f"SEATS AVAILABLE for April {TARGET_DAY}! Go book now!"
+        available_days = [d for d, v in results.items() if v is True]
+        if available_days:
+            days_str = ", ".join(str(d) for d in available_days)
+            msg = f"SEATS AVAILABLE for April {days_str}! Go book now!"
             print(f"\n  *** {msg} ***\n")
             notify("Last Supper Tickets", msg)
             sys.exit(0)
-        elif result is False:
+
+        if all(v is False for v in results.values()):
             print("  No availability yet.")
-        else:
-            print("  Could not determine availability (page may have changed).")
+        elif any(v is None for v in results.values()):
+            print("  Could not determine availability for some dates.")
 
         if not args.loop:
             break
