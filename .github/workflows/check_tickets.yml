@@ -26,5 +26,9 @@ jobs:
           pip install playwright
           playwright install --with-deps chromium
 
-      - name: Check availability
+      - name: Check regular entry
         run: python check_availability.py
+
+      - name: Check guided tour
+        if: always()
+        run: python check_guided_tour.py

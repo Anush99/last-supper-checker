@@ -23,3 +23,1706 @@
   Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
   No availability yet.
   Next check in 300 seconds…
+
+[2026-04-20 21:13:49] Checking availability for April 30…
+
+[2026-04-20 21:19:33] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1155/chrome-mac/headless_shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-20 21:25:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-20 21:30:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-20 21:35:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-20 21:40:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-20 21:45:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-20 21:50:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-20 21:55:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-20 22:00:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-20 22:05:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-20 22:10:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-20 22:15:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 00:20:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 10:21:44] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 12:10:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 12:15:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 12:20:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 12:25:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 12:30:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 12:35:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 12:40:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 12:45:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 12:50:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 12:55:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:00:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:05:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:10:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:15:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:20:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:25:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:30:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:35:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:40:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:45:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:50:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 13:55:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:00:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:05:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:10:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:15:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:20:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:25:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:30:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:35:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:40:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:45:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:50:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 14:55:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:00:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:05:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:10:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:15:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:20:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:25:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:30:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:35:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:40:02] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:45:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:50:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 15:55:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:00:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:05:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:10:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:15:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:20:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:25:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:30:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:35:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:40:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:45:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:50:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 16:55:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 17:00:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 17:05:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 17:10:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 17:15:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 17:20:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 17:25:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 17:30:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 17:50:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 17:55:01] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 18:00:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 18:05:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 18:10:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-21 20:32:46] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-22 10:20:37] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-22 14:10:00] Checking availability for April 29, 30…
+  ERROR: BrowserType.launch: Executable doesn't exist at /Users/anushik/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+  Could not determine availability for some dates.
+
+[2026-04-22 14:15:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:20:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:22:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:23:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:24:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:25:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:26:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:27:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:28:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:29:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 29, 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:30:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 29, 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:31:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 29, 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:32:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 29, 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:33:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:34:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:35:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:36:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:37:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:38:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:39:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:40:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:41:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:42:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:43:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:44:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:45:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:46:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:47:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:48:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:49:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:50:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:51:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:52:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:53:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 29, 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:54:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 29, 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:55:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 29, 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:56:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 29, 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 14:57:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:58:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 14:59:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:00:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:01:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:02:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:03:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:04:00] Checking availability for April 29, 30…
+  ERROR: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://cenacolovinciano.vivaticket.it/en/event/cenacolo-vinciano/151991?idt=2547", waiting until "domcontentloaded"
+
+  Could not determine availability for some dates.
+
+[2026-04-22 15:05:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:06:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:07:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:08:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:09:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:10:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:11:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:12:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:13:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:14:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:15:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:16:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:17:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:18:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:19:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day cal430' | title: '' | has link: True
+
+  *** SEATS AVAILABLE for April 30! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:20:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:21:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:22:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:23:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:24:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:25:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:26:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:27:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:28:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:29:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:30:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:31:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:32:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:33:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:34:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:35:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:36:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:37:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:38:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:39:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:40:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:41:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:42:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:43:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:44:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:45:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:46:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:47:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:48:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:49:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:50:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:51:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:52:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:53:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:54:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:55:00] Checking availability for April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+  No availability yet.
+
+[2026-04-22 15:56:01] Checking April 29, 30 — 2 events…
+
+  [Regular Entry]
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  [Guided Tour (English)]
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | has link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  No availability on any event yet.
+
+[2026-04-22 15:57:01] Checking availability for April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | has link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | has link: False
+
+  *** SEATS AVAILABLE for April 29! Go book now! ***
+
+  Push notification sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:58:01] Regular Entry — checking April 29, 30…
+  Day 29 — class: 'day cal429' | title: '' | link: True
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | link: False
+
+  *** April 29 AVAILABLE! https://cenacolovinciano.vivaticket.it/en/event/cenacolo-vinciano/151991?idt=2547 ***
+
+  Push sent to ntfy.sh/anushik-last-supper
+
+[2026-04-22 15:59:01] Regular Entry — checking April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | link: False
+  No availability yet.
+
+[2026-04-22 16:00:01] Regular Entry — checking April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | link: False
+  No availability yet.
+
+[2026-04-22 16:01:00] Regular Entry — checking April 29, 30…
+  Day 29 — class: 'day inactive cal429' | title: 'Seats not available' | link: False
+  Day 30 — class: 'day inactive cal430' | title: 'Seats not available' | link: False
+  No availability yet.
